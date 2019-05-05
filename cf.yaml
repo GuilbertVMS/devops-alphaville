@@ -11,3 +11,4 @@ Resources:
  geohash:
    Type: AWS::Serverless::Function
    Properties:
+   
