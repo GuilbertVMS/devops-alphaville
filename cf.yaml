@@ -4,10 +4,10 @@ Transform: AWS::Serverless-2016-10-31
 Description: Enkel Sample API
 
 Resources:
-  API:
-    Type: AWS::Serverless::Api
-    Properties:
+ API:
+   Type: AWS::Serverless::Api
+   Properties:
 
-  geohash:
-    Type: AWS::Serverless::Function
-    Properties:
+ geohash:
+   Type: AWS::Serverless::Function
+   Properties:
